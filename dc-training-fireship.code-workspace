@@ -1,8 +1,20 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": ".",
+			"name": "Fireship Training"
 		}
 	],
-	"settings": {}
+	"settings": {
+		
+	},
+	"extensions": {
+		"recommendations": [
+			"rangav.vscode-thunder-client",
+			"denoland.vscode-deno",
+			"ecmel.vscode-html-css",
+			"ms-vscode.live-server",
+			"esbenp.prettier-vscode"
+		]
+	}
 }
